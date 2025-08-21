@@ -30,9 +30,9 @@ Bienvenido a mi perfil de GitHub. Este repositorio es especial porque su `README
 - Implementación de metodologías ágiles como SCRUM
 
 ### 📫 Cómo contactarme:
-- ✉️ cristian.tuemail@example.com
+- ✉️ cristian.escalante.t@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)
-- 🌐 [Mi portafolio](https://tu-portafolio.com) *(si tienes uno)*
+- 🌐 [Mi portafolio](https://tu-portafolio.com) 
 
 ### 😄 Pronombres:
 - Él / Him
