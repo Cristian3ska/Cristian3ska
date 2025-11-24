@@ -1,46 +1,82 @@
-## 👋 ¡Hola! Soy Cristian3ska
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Cristian;Full+Stack+Developer;PHP+%7C+Laravel+%7C+Vue.js;Amante+de+la+funcionalidad" alt="Typing SVG" />
+  </a>
 
-Bienvenido a mi perfil de GitHub. Este repositorio es especial porque su `README.md` aparece directamente en mi perfil. Aquí te cuento un poco sobre mí y mis intereses como desarrollador.
+  <p>
+    <strong>Estudiante de Desarrollo de Software & Entusiasta del Código</strong>
+  </p>
+  
+  <p>
+    <a href="mailto:cristian.escalante.t@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="TU_LINK_DE_LINKEDIN">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="TU_LINK_PORTAFOLIO">
+      <img src="https://img.shields.io/badge/Portafolio-1da1f2?style=for-the-badge&logo=ko-fi&logoColor=white&color=black" alt="Portfolio" />
+    </a>
+  </p>
+</div>
 
----
+<hr />
 
-### 🔭 Actualmente estoy trabajando en:
-- Aplicaciones web con PHP, Laravel y Vue.js
-- Proyectos para automatización de tareas y sistemas de información
-- Desarrollo de sistemas personalizados para clientes como inmobiliarias, conferencias y congresos
+### 👨‍💻 Sobre mí
 
-### 🌱 Actualmente estoy aprendiendo:
-- Solidity y desarrollo de contratos inteligentes
-- Arquitectura SOA y microservicios
-- Buenas prácticas de UI/UX
-- Frameworks modernos como Flutter y Tailwind CSS
-
-### 👯 Me gustaría colaborar en:
-- Proyectos de software libre enfocados en educación, tecnología o desarrollo web
-- Aplicaciones con impacto social o comunitario
-
-### 🤔 Busco ayuda con:
-- Optimización de rendimiento en backend
-- Integración de sistemas en la nube (AWS, Firebase, etc.)
-
-### 💬 Pregúntame sobre:
-- Desarrollo backend con PHP, Laravel o Yii2
-- Diseño web responsive con HTML, CSS y JavaScript
-- Bases de datos MySQL y PostgreSQL
-- Implementación de metodologías ágiles como SCRUM
-
-### 📫 Cómo contactarme:
-- ✉️ cristian.escalante.t@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)
-- 🌐 [Mi portafolio](https://tu-portafolio.com) 
-
-### 😄 Pronombres:
-- Él / Him
-
-### ⚡ Dato curioso:
-- Siempre busco combinar funcionalidad y estética en cada proyecto que realizo. Me encanta aprender nuevas tecnologías y aplicarlas para resolver problemas reales.
+Bienvenido a mi perfil. Aquí combino la lógica del backend con la creatividad del frontend. Siempre busco que mis proyectos tengan un equilibrio perfecto entre **funcionalidad y estética**.
 
 ---
 
-⭐ Gracias por visitar mi perfil. ¡Explora mis repositorios y si algo te interesa, no dudes en contactarme o colaborar!
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</div>
 
+---
+
+### 🚀 Estado Actual
+
+| Icono | Actividad | Detalles |
+| :---: | :--- | :--- |
+| 🔭 | **Trabajando en** | Aplicaciones web con **PHP, Laravel y Vue.js**. <br> Sistemas para inmobiliarias y gestión de congresos. |
+| 🌱 | **Aprendiendo** | **Solidity** (Smart Contracts), Arquitectura SOA y Microservicios. <br> Explorando Flutter y buenas prácticas UI/UX. |
+| 👯 | **Colaboración** | Interesado en **Open Source** educativo y apps de impacto social. |
+| 🤔 | **Busco ayuda** | Optimización de rendimiento Backend e integración con **AWS/Firebase**. |
+
+<br>
+
+### 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cristian3ska&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Cristian3ska's Github Stats" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian3ska&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
+
+---
+
+### 💬 Hablemos de...
+
+Si necesitas discutir sobre **Backend (PHP/Yii2)**, bases de datos SQL, o metodologías ágiles como **SCRUM**, ¡soy la persona indicada!
+
+> **⚡ Dato curioso:** Me encanta aprender nuevas tecnologías y aplicarlas para resolver problemas reales. No solo escribo código, construyo soluciones.
+
+<div align="center">
+  <br>
+  <i>Gracias por visitar mi perfil. ¡Explora mis repositorios!</i>
+  <br>
+  😄 <b>Pronombres:</b> Él / Him
+</div>
