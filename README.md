@@ -60,18 +60,6 @@ Bienvenido a mi perfil. Aquí combino la lógica del backend con la creatividad 
 | 👯 | **Colaboración** | Interesado en **Open Source** educativo y apps de impacto social. |
 | 🤔 | **Busco ayuda** | Optimización de rendimiento Backend e integración con **AWS/Firebase**. |
 
-<br>
-
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cristian3ska&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Cristian3ska's Github Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian3ska&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>
-
 ---
 
 ### 💬 Hablemos de...
